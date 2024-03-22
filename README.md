@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @gauravrjoshi
-- 👀 I am a Full-stack web developer with rich experience on both the front-end and back-end of web development (LAMP/WAMP & MERN Stack) from Chandigarh, India
-- 🌱 I have over 5 + years of software development experience, mostly developing enterprise web applications. I love working on Front-end technologies that include JavaScript, HTML5/CSS, React, Material UI, etc
-- 💞️ I also have experience working with back-end technologies like PHP and Node.js. 
-- 📫 Take a look at my work and if you like it I would love to hear from you! https://statelyworld.com/gauravj/
+# Full Stack Developer 🚀 | PHP, WordPress, Laravel
+
+I specialize in PHP development with a focus on WordPress and Laravel frameworks. My expertise spans custom theme/plugin development, Laravel-based web applications, and frontend technologies like HTML, CSS, and JavaScript. I excel in problem-solving, ensuring projects are delivered on time and within budget. Let's collaborate to bring your ideas to life! 💡
+
+I invite you to explore my portfolio to witness the results of my dedication and skills. 🌟
+[gaurav.statelyworld.com](https://gaurav.statelyworld.com)
 
 <!---
 gauravrjoshi/gauravrjoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
