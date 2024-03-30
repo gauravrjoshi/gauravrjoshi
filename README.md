@@ -1,4 +1,4 @@
-# Full Stack Developer 🚀 | PHP, WordPress, Laravel
+# Full Stack Developer 🚀 | PHP, WordPress, Laravel, MERN
 
 I specialize in PHP development with a focus on WordPress and Laravel frameworks. My expertise spans custom theme/plugin development, Laravel-based web applications, and frontend technologies like HTML, CSS, and JavaScript. I excel in problem-solving, ensuring projects are delivered on time and within budget. Let's collaborate to bring your ideas to life! 💡
 
